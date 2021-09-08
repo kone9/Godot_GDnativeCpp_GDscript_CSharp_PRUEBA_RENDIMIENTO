@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                // "godot-cpp\\godot-headers",
+                // "godot-cpp\\include",
+                // "godot-cpp\\include\\core",
+                // "godot-cpp\\include\\gen"
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe",
+            "cppStandard": "c++17",
+            "cStandard": "c17",
+            // "cppStandard": "gnu++14",
+            // "cStandard": "gnu17",
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}
